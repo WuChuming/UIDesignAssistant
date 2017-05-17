@@ -15,18 +15,18 @@
 		2950E0AE1ECBFD22008E4425 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2950E0AC1ECBFD22008E4425 /* LaunchScreen.storyboard */; };
 		2950E0B91ECBFD23008E4425 /* UIDesingerAssistantDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2950E0B81ECBFD23008E4425 /* UIDesingerAssistantDemoTests.m */; };
 		2950E0C41ECBFD23008E4425 /* UIDesingerAssistantDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2950E0C31ECBFD23008E4425 /* UIDesingerAssistantDemoUITests.m */; };
-		2950E0EC1ECBFDC7008E4425 /* BYDclassSourceController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2950E0D71ECBFDC7008E4425 /* BYDclassSourceController.m */; };
-		2950E0ED1ECBFDC7008E4425 /* BYDUIDesignAssistant.m in Sources */ = {isa = PBXBuildFile; fileRef = 2950E0D91ECBFDC7008E4425 /* BYDUIDesignAssistant.m */; };
-		2950E0EE1ECBFDC7008E4425 /* UIViewController+runtime.m in Sources */ = {isa = PBXBuildFile; fileRef = 2950E0DB1ECBFDC7008E4425 /* UIViewController+runtime.m */; };
-		2950E0EF1ECBFDC7008E4425 /* XFAssistiveTouch.m in Sources */ = {isa = PBXBuildFile; fileRef = 2950E0DD1ECBFDC7008E4425 /* XFAssistiveTouch.m */; };
-		2950E0F01ECBFDC7008E4425 /* XFATItemView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2950E0DF1ECBFDC7008E4425 /* XFATItemView.m */; };
-		2950E0F11ECBFDC7008E4425 /* XFATLayoutAttributes.m in Sources */ = {isa = PBXBuildFile; fileRef = 2950E0E11ECBFDC7008E4425 /* XFATLayoutAttributes.m */; };
-		2950E0F21ECBFDC7008E4425 /* XFATNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2950E0E31ECBFDC7008E4425 /* XFATNavigationController.m */; };
-		2950E0F31ECBFDC7008E4425 /* XFATPosition.m in Sources */ = {isa = PBXBuildFile; fileRef = 2950E0E51ECBFDC7008E4425 /* XFATPosition.m */; };
-		2950E0F41ECBFDC7008E4425 /* XFATRootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2950E0E71ECBFDC7008E4425 /* XFATRootViewController.m */; };
-		2950E0F51ECBFDC7008E4425 /* XFATViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2950E0E91ECBFDC7008E4425 /* XFATViewController.m */; };
-		2950E0F61ECBFDC7008E4425 /* ZTLetterIndex.m in Sources */ = {isa = PBXBuildFile; fileRef = 2950E0EB1ECBFDC7008E4425 /* ZTLetterIndex.m */; };
 		2950E0F91ECBFE2B008E4425 /* LaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2950E0F81ECBFE2B008E4425 /* LaViewController.m */; };
+		2950E1101ECC2793008E4425 /* BYDclassSourceController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2950E0FB1ECC2793008E4425 /* BYDclassSourceController.m */; };
+		2950E1111ECC2793008E4425 /* BYDUIDesignAssistant.m in Sources */ = {isa = PBXBuildFile; fileRef = 2950E0FD1ECC2793008E4425 /* BYDUIDesignAssistant.m */; };
+		2950E1121ECC2793008E4425 /* UIViewController+runtime.m in Sources */ = {isa = PBXBuildFile; fileRef = 2950E0FF1ECC2793008E4425 /* UIViewController+runtime.m */; };
+		2950E1131ECC2793008E4425 /* XFAssistiveTouch.m in Sources */ = {isa = PBXBuildFile; fileRef = 2950E1011ECC2793008E4425 /* XFAssistiveTouch.m */; };
+		2950E1141ECC2793008E4425 /* XFATItemView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2950E1031ECC2793008E4425 /* XFATItemView.m */; };
+		2950E1151ECC2793008E4425 /* XFATLayoutAttributes.m in Sources */ = {isa = PBXBuildFile; fileRef = 2950E1051ECC2793008E4425 /* XFATLayoutAttributes.m */; };
+		2950E1161ECC2793008E4425 /* XFATNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2950E1071ECC2793008E4425 /* XFATNavigationController.m */; };
+		2950E1171ECC2793008E4425 /* XFATPosition.m in Sources */ = {isa = PBXBuildFile; fileRef = 2950E1091ECC2793008E4425 /* XFATPosition.m */; };
+		2950E1181ECC2793008E4425 /* XFATRootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2950E10B1ECC2793008E4425 /* XFATRootViewController.m */; };
+		2950E1191ECC2793008E4425 /* XFATViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2950E10D1ECC2793008E4425 /* XFATViewController.m */; };
+		2950E11A1ECC2793008E4425 /* ZTLetterIndex.m in Sources */ = {isa = PBXBuildFile; fileRef = 2950E10F1ECC2793008E4425 /* ZTLetterIndex.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,30 +63,30 @@
 		2950E0BF1ECBFD23008E4425 /* UIDesingerAssistantDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UIDesingerAssistantDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2950E0C31ECBFD23008E4425 /* UIDesingerAssistantDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UIDesingerAssistantDemoUITests.m; sourceTree = "<group>"; };
 		2950E0C51ECBFD23008E4425 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		2950E0D61ECBFDC7008E4425 /* BYDclassSourceController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BYDclassSourceController.h; path = AssistantButton/CM_UIDessinAssistant/BYDclassSourceController.h; sourceTree = "<group>"; };
-		2950E0D71ECBFDC7008E4425 /* BYDclassSourceController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BYDclassSourceController.m; path = AssistantButton/CM_UIDessinAssistant/BYDclassSourceController.m; sourceTree = "<group>"; };
-		2950E0D81ECBFDC7008E4425 /* BYDUIDesignAssistant.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BYDUIDesignAssistant.h; path = AssistantButton/CM_UIDessinAssistant/BYDUIDesignAssistant.h; sourceTree = "<group>"; };
-		2950E0D91ECBFDC7008E4425 /* BYDUIDesignAssistant.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BYDUIDesignAssistant.m; path = AssistantButton/CM_UIDessinAssistant/BYDUIDesignAssistant.m; sourceTree = "<group>"; };
-		2950E0DA1ECBFDC7008E4425 /* UIViewController+runtime.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIViewController+runtime.h"; path = "AssistantButton/CM_UIDessinAssistant/UIViewController+runtime.h"; sourceTree = "<group>"; };
-		2950E0DB1ECBFDC7008E4425 /* UIViewController+runtime.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIViewController+runtime.m"; path = "AssistantButton/CM_UIDessinAssistant/UIViewController+runtime.m"; sourceTree = "<group>"; };
-		2950E0DC1ECBFDC7008E4425 /* XFAssistiveTouch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XFAssistiveTouch.h; path = AssistantButton/CM_UIDessinAssistant/XFAssistiveTouch.h; sourceTree = "<group>"; };
-		2950E0DD1ECBFDC7008E4425 /* XFAssistiveTouch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XFAssistiveTouch.m; path = AssistantButton/CM_UIDessinAssistant/XFAssistiveTouch.m; sourceTree = "<group>"; };
-		2950E0DE1ECBFDC7008E4425 /* XFATItemView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XFATItemView.h; path = AssistantButton/CM_UIDessinAssistant/XFATItemView.h; sourceTree = "<group>"; };
-		2950E0DF1ECBFDC7008E4425 /* XFATItemView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XFATItemView.m; path = AssistantButton/CM_UIDessinAssistant/XFATItemView.m; sourceTree = "<group>"; };
-		2950E0E01ECBFDC7008E4425 /* XFATLayoutAttributes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XFATLayoutAttributes.h; path = AssistantButton/CM_UIDessinAssistant/XFATLayoutAttributes.h; sourceTree = "<group>"; };
-		2950E0E11ECBFDC7008E4425 /* XFATLayoutAttributes.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XFATLayoutAttributes.m; path = AssistantButton/CM_UIDessinAssistant/XFATLayoutAttributes.m; sourceTree = "<group>"; };
-		2950E0E21ECBFDC7008E4425 /* XFATNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XFATNavigationController.h; path = AssistantButton/CM_UIDessinAssistant/XFATNavigationController.h; sourceTree = "<group>"; };
-		2950E0E31ECBFDC7008E4425 /* XFATNavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XFATNavigationController.m; path = AssistantButton/CM_UIDessinAssistant/XFATNavigationController.m; sourceTree = "<group>"; };
-		2950E0E41ECBFDC7008E4425 /* XFATPosition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XFATPosition.h; path = AssistantButton/CM_UIDessinAssistant/XFATPosition.h; sourceTree = "<group>"; };
-		2950E0E51ECBFDC7008E4425 /* XFATPosition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XFATPosition.m; path = AssistantButton/CM_UIDessinAssistant/XFATPosition.m; sourceTree = "<group>"; };
-		2950E0E61ECBFDC7008E4425 /* XFATRootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XFATRootViewController.h; path = AssistantButton/CM_UIDessinAssistant/XFATRootViewController.h; sourceTree = "<group>"; };
-		2950E0E71ECBFDC7008E4425 /* XFATRootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XFATRootViewController.m; path = AssistantButton/CM_UIDessinAssistant/XFATRootViewController.m; sourceTree = "<group>"; };
-		2950E0E81ECBFDC7008E4425 /* XFATViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XFATViewController.h; path = AssistantButton/CM_UIDessinAssistant/XFATViewController.h; sourceTree = "<group>"; };
-		2950E0E91ECBFDC7008E4425 /* XFATViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XFATViewController.m; path = AssistantButton/CM_UIDessinAssistant/XFATViewController.m; sourceTree = "<group>"; };
-		2950E0EA1ECBFDC7008E4425 /* ZTLetterIndex.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ZTLetterIndex.h; path = AssistantButton/CM_UIDessinAssistant/ZTLetterIndex.h; sourceTree = "<group>"; };
-		2950E0EB1ECBFDC7008E4425 /* ZTLetterIndex.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ZTLetterIndex.m; path = AssistantButton/CM_UIDessinAssistant/ZTLetterIndex.m; sourceTree = "<group>"; };
 		2950E0F71ECBFE2B008E4425 /* LaViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LaViewController.h; sourceTree = "<group>"; };
 		2950E0F81ECBFE2B008E4425 /* LaViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LaViewController.m; sourceTree = "<group>"; };
+		2950E0FA1ECC2793008E4425 /* BYDclassSourceController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BYDclassSourceController.h; path = AssistantButton/CM_UIDesignAssistant/BYDclassSourceController.h; sourceTree = "<group>"; };
+		2950E0FB1ECC2793008E4425 /* BYDclassSourceController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BYDclassSourceController.m; path = AssistantButton/CM_UIDesignAssistant/BYDclassSourceController.m; sourceTree = "<group>"; };
+		2950E0FC1ECC2793008E4425 /* BYDUIDesignAssistant.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BYDUIDesignAssistant.h; path = AssistantButton/CM_UIDesignAssistant/BYDUIDesignAssistant.h; sourceTree = "<group>"; };
+		2950E0FD1ECC2793008E4425 /* BYDUIDesignAssistant.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BYDUIDesignAssistant.m; path = AssistantButton/CM_UIDesignAssistant/BYDUIDesignAssistant.m; sourceTree = "<group>"; };
+		2950E0FE1ECC2793008E4425 /* UIViewController+runtime.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIViewController+runtime.h"; path = "AssistantButton/CM_UIDesignAssistant/UIViewController+runtime.h"; sourceTree = "<group>"; };
+		2950E0FF1ECC2793008E4425 /* UIViewController+runtime.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIViewController+runtime.m"; path = "AssistantButton/CM_UIDesignAssistant/UIViewController+runtime.m"; sourceTree = "<group>"; };
+		2950E1001ECC2793008E4425 /* XFAssistiveTouch.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XFAssistiveTouch.h; path = AssistantButton/CM_UIDesignAssistant/XFAssistiveTouch.h; sourceTree = "<group>"; };
+		2950E1011ECC2793008E4425 /* XFAssistiveTouch.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XFAssistiveTouch.m; path = AssistantButton/CM_UIDesignAssistant/XFAssistiveTouch.m; sourceTree = "<group>"; };
+		2950E1021ECC2793008E4425 /* XFATItemView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XFATItemView.h; path = AssistantButton/CM_UIDesignAssistant/XFATItemView.h; sourceTree = "<group>"; };
+		2950E1031ECC2793008E4425 /* XFATItemView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XFATItemView.m; path = AssistantButton/CM_UIDesignAssistant/XFATItemView.m; sourceTree = "<group>"; };
+		2950E1041ECC2793008E4425 /* XFATLayoutAttributes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XFATLayoutAttributes.h; path = AssistantButton/CM_UIDesignAssistant/XFATLayoutAttributes.h; sourceTree = "<group>"; };
+		2950E1051ECC2793008E4425 /* XFATLayoutAttributes.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XFATLayoutAttributes.m; path = AssistantButton/CM_UIDesignAssistant/XFATLayoutAttributes.m; sourceTree = "<group>"; };
+		2950E1061ECC2793008E4425 /* XFATNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XFATNavigationController.h; path = AssistantButton/CM_UIDesignAssistant/XFATNavigationController.h; sourceTree = "<group>"; };
+		2950E1071ECC2793008E4425 /* XFATNavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XFATNavigationController.m; path = AssistantButton/CM_UIDesignAssistant/XFATNavigationController.m; sourceTree = "<group>"; };
+		2950E1081ECC2793008E4425 /* XFATPosition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XFATPosition.h; path = AssistantButton/CM_UIDesignAssistant/XFATPosition.h; sourceTree = "<group>"; };
+		2950E1091ECC2793008E4425 /* XFATPosition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XFATPosition.m; path = AssistantButton/CM_UIDesignAssistant/XFATPosition.m; sourceTree = "<group>"; };
+		2950E10A1ECC2793008E4425 /* XFATRootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XFATRootViewController.h; path = AssistantButton/CM_UIDesignAssistant/XFATRootViewController.h; sourceTree = "<group>"; };
+		2950E10B1ECC2793008E4425 /* XFATRootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XFATRootViewController.m; path = AssistantButton/CM_UIDesignAssistant/XFATRootViewController.m; sourceTree = "<group>"; };
+		2950E10C1ECC2793008E4425 /* XFATViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = XFATViewController.h; path = AssistantButton/CM_UIDesignAssistant/XFATViewController.h; sourceTree = "<group>"; };
+		2950E10D1ECC2793008E4425 /* XFATViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = XFATViewController.m; path = AssistantButton/CM_UIDesignAssistant/XFATViewController.m; sourceTree = "<group>"; };
+		2950E10E1ECC2793008E4425 /* ZTLetterIndex.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ZTLetterIndex.h; path = AssistantButton/CM_UIDesignAssistant/ZTLetterIndex.h; sourceTree = "<group>"; };
+		2950E10F1ECC2793008E4425 /* ZTLetterIndex.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ZTLetterIndex.m; path = AssistantButton/CM_UIDesignAssistant/ZTLetterIndex.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -182,28 +182,28 @@
 		2950E0D51ECBFD80008E4425 /* CM_Assistant */ = {
 			isa = PBXGroup;
 			children = (
-				2950E0D61ECBFDC7008E4425 /* BYDclassSourceController.h */,
-				2950E0D71ECBFDC7008E4425 /* BYDclassSourceController.m */,
-				2950E0D81ECBFDC7008E4425 /* BYDUIDesignAssistant.h */,
-				2950E0D91ECBFDC7008E4425 /* BYDUIDesignAssistant.m */,
-				2950E0DA1ECBFDC7008E4425 /* UIViewController+runtime.h */,
-				2950E0DB1ECBFDC7008E4425 /* UIViewController+runtime.m */,
-				2950E0DC1ECBFDC7008E4425 /* XFAssistiveTouch.h */,
-				2950E0DD1ECBFDC7008E4425 /* XFAssistiveTouch.m */,
-				2950E0DE1ECBFDC7008E4425 /* XFATItemView.h */,
-				2950E0DF1ECBFDC7008E4425 /* XFATItemView.m */,
-				2950E0E01ECBFDC7008E4425 /* XFATLayoutAttributes.h */,
-				2950E0E11ECBFDC7008E4425 /* XFATLayoutAttributes.m */,
-				2950E0E21ECBFDC7008E4425 /* XFATNavigationController.h */,
-				2950E0E31ECBFDC7008E4425 /* XFATNavigationController.m */,
-				2950E0E41ECBFDC7008E4425 /* XFATPosition.h */,
-				2950E0E51ECBFDC7008E4425 /* XFATPosition.m */,
-				2950E0E61ECBFDC7008E4425 /* XFATRootViewController.h */,
-				2950E0E71ECBFDC7008E4425 /* XFATRootViewController.m */,
-				2950E0E81ECBFDC7008E4425 /* XFATViewController.h */,
-				2950E0E91ECBFDC7008E4425 /* XFATViewController.m */,
-				2950E0EA1ECBFDC7008E4425 /* ZTLetterIndex.h */,
-				2950E0EB1ECBFDC7008E4425 /* ZTLetterIndex.m */,
+				2950E0FA1ECC2793008E4425 /* BYDclassSourceController.h */,
+				2950E0FB1ECC2793008E4425 /* BYDclassSourceController.m */,
+				2950E0FC1ECC2793008E4425 /* BYDUIDesignAssistant.h */,
+				2950E0FD1ECC2793008E4425 /* BYDUIDesignAssistant.m */,
+				2950E0FE1ECC2793008E4425 /* UIViewController+runtime.h */,
+				2950E0FF1ECC2793008E4425 /* UIViewController+runtime.m */,
+				2950E1001ECC2793008E4425 /* XFAssistiveTouch.h */,
+				2950E1011ECC2793008E4425 /* XFAssistiveTouch.m */,
+				2950E1021ECC2793008E4425 /* XFATItemView.h */,
+				2950E1031ECC2793008E4425 /* XFATItemView.m */,
+				2950E1041ECC2793008E4425 /* XFATLayoutAttributes.h */,
+				2950E1051ECC2793008E4425 /* XFATLayoutAttributes.m */,
+				2950E1061ECC2793008E4425 /* XFATNavigationController.h */,
+				2950E1071ECC2793008E4425 /* XFATNavigationController.m */,
+				2950E1081ECC2793008E4425 /* XFATPosition.h */,
+				2950E1091ECC2793008E4425 /* XFATPosition.m */,
+				2950E10A1ECC2793008E4425 /* XFATRootViewController.h */,
+				2950E10B1ECC2793008E4425 /* XFATRootViewController.m */,
+				2950E10C1ECC2793008E4425 /* XFATViewController.h */,
+				2950E10D1ECC2793008E4425 /* XFATViewController.m */,
+				2950E10E1ECC2793008E4425 /* ZTLetterIndex.h */,
+				2950E10F1ECC2793008E4425 /* ZTLetterIndex.m */,
 			);
 			name = CM_Assistant;
 			sourceTree = "<group>";
@@ -344,21 +344,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2950E1111ECC2793008E4425 /* BYDUIDesignAssistant.m in Sources */,
+				2950E11A1ECC2793008E4425 /* ZTLetterIndex.m in Sources */,
+				2950E1191ECC2793008E4425 /* XFATViewController.m in Sources */,
+				2950E1151ECC2793008E4425 /* XFATLayoutAttributes.m in Sources */,
+				2950E1131ECC2793008E4425 /* XFAssistiveTouch.m in Sources */,
 				2950E0A61ECBFD22008E4425 /* ViewController.m in Sources */,
 				2950E0F91ECBFE2B008E4425 /* LaViewController.m in Sources */,
-				2950E0F51ECBFDC7008E4425 /* XFATViewController.m in Sources */,
-				2950E0EE1ECBFDC7008E4425 /* UIViewController+runtime.m in Sources */,
-				2950E0EF1ECBFDC7008E4425 /* XFAssistiveTouch.m in Sources */,
-				2950E0F31ECBFDC7008E4425 /* XFATPosition.m in Sources */,
+				2950E1141ECC2793008E4425 /* XFATItemView.m in Sources */,
+				2950E1161ECC2793008E4425 /* XFATNavigationController.m in Sources */,
+				2950E1101ECC2793008E4425 /* BYDclassSourceController.m in Sources */,
 				2950E0A31ECBFD22008E4425 /* AppDelegate.m in Sources */,
-				2950E0F41ECBFDC7008E4425 /* XFATRootViewController.m in Sources */,
-				2950E0F11ECBFDC7008E4425 /* XFATLayoutAttributes.m in Sources */,
-				2950E0ED1ECBFDC7008E4425 /* BYDUIDesignAssistant.m in Sources */,
-				2950E0F21ECBFDC7008E4425 /* XFATNavigationController.m in Sources */,
-				2950E0F61ECBFDC7008E4425 /* ZTLetterIndex.m in Sources */,
+				2950E1171ECC2793008E4425 /* XFATPosition.m in Sources */,
+				2950E1181ECC2793008E4425 /* XFATRootViewController.m in Sources */,
 				2950E0A01ECBFD22008E4425 /* main.m in Sources */,
-				2950E0F01ECBFDC7008E4425 /* XFATItemView.m in Sources */,
-				2950E0EC1ECBFDC7008E4425 /* BYDclassSourceController.m in Sources */,
+				2950E1121ECC2793008E4425 /* UIViewController+runtime.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -596,6 +596,7 @@
 				2950E0CA1ECBFD23008E4425 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2950E0CB1ECBFD23008E4425 /* Build configuration list for PBXNativeTarget "UIDesingerAssistantDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -604,6 +605,7 @@
 				2950E0CD1ECBFD23008E4425 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2950E0CE1ECBFD23008E4425 /* Build configuration list for PBXNativeTarget "UIDesingerAssistantDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -612,6 +614,7 @@
 				2950E0D01ECBFD23008E4425 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
